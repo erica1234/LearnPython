@@ -2,7 +2,7 @@
 以撸代码的形式学习Python, 具体说明在[知乎专栏-撸代码,学知识](https://zhuanlan.zhihu.com/pythoner)
 
 ===================================================================================================
-### python_base.py: 千行代码入门Python
+### python_base.py: [千行代码入门Python](blob/master/python_base.py) 
 
 ### python_visual.py: 15张图入门Matplotlib
 
@@ -28,7 +28,7 @@
 
 ### python_coroutine.py: Python进阶: 理解Python中的异步IO和协程(Coroutine), 并应用在爬虫中
 
-### python_aiohttp.py: Python中最好用的异步爬虫库Aiohttp代码实例
+### python_aiohttp.py: [Python中最好用的异步爬虫库Aiohttp代码实例](https://github.com/JuZiSang/LearnPython/blob/master/python_aiohttp.py) 
 
 ### python_thread_multiprocess.py: Python进阶: 聊聊IO密集型任务、计算密集型任务，以及多线程、多进程
 
